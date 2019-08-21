@@ -1,0 +1,3 @@
+[submodule "blender/blender"]
+	path = blender/blender
+	url = git://git.blender.org/blender.git
